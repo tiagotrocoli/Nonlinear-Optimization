@@ -5,7 +5,7 @@ e = 10^(-5);
 
 while norm(d) >= e
     
-    % a is the optimal step
+    % a is a "good" step
     a = armijo(fun, x);
     x = x + a*d;
     d = -grad(fun,x);
