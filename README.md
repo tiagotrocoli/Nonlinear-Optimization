@@ -1,7 +1,7 @@
 # Nonlinear-Optimization
 (IA543) Nonlinear Optimization from master course at State University of Campinas.
 
-Nonlinear Optimization Algorithms programmed:
+Nonlinear Optimization Algorithms:
 
 1) Armijo rule.
 2) Gradient Descent with armijo rule.
